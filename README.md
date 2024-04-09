@@ -1,7 +1,7 @@
 # Bank-Loan-Analysis-
 
 
-Overview
+**Overview**
 
 The Bank Loan Analysis project aims to analyze bank loan data to assess risk, improve decision-making, and optimize lending strategies. Key highlights of the project include:
 
